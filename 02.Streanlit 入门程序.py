@@ -16,19 +16,19 @@ st.write("饲养比熊最大的挑战在于被毛护理：虽不爱掉毛，但�
 
 
 #图片
-st.image("resoutces/mmexport1793612782663.jpg")
+st.image("mmexport1793612782663.jpg")
 
 
 
 #音频
-st.audio("resoutces/yaya.mp3")
+st.audio("yaya.mp3")
 
 
 
 
 #视频
 
-st.video("resoutces/yaya.mp4")
+# st.video("yaya.mp4")
 
 
 
@@ -47,4 +47,4 @@ st.video("resoutces/yaya.mp4")
 #按钮
 
 #LOGO
-st.logo("resoutces/17936200142683ea59b2963a8f5d308ad00a1d8d243d5fdad.jpg")
+st.logo("17936200142683ea59b2963a8f5d308ad00a1d8d243d5fdad.jpg")
